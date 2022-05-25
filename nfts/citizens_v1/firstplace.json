@@ -1,0 +1,41 @@
+{
+  "name": "Fun Country Poker Citizen's NFT",
+  "symbol": "",
+  "description": "Citizen's Game First Place Award",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/funcountry/token-data/main/nfts/citizens_v1/firstplace.png",
+  "external_url": "https://fun.country",
+  "attributes": [
+    {
+      "trait_type": "web",
+      "value": "yes"
+    },
+    {
+      "trait_type": "mobile",
+      "value": "yes"
+   },
+   {
+      "trait_type": "extension",
+      "value": "yes"
+    }
+  ],
+  "collection": {
+     "name": "Fun Country Poker Citizen's NFT",
+     "family": "Fun Country"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/funcountry/token-data/main/nfts/citizens_v1/firstplace.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "sjZcLR8dVxz1VxJtBAVWSLWot4eVEF3m84UPKJvobRE",
+        "share": 100
+      }
+    ]
+  }
+}
